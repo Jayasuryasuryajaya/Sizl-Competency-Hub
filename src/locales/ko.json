@@ -1,0 +1,11 @@
+{
+    "pageTitle": "생산 모니터링",
+    "machineName": "기계 이름",
+    "dateRange": "날짜 범위",
+    "status": "상태",
+    "output": "출력",
+    "lastUpdated": "마지막 업데이트",
+    "loading": "로딩 중...",
+    "error": "데이터 로딩 오류"
+  }
+  

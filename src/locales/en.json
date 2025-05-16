@@ -1,0 +1,11 @@
+{
+    "pageTitle": "Production Monitoring",
+    "machineName": "Machine Name",
+    "dateRange": "Date Range",
+    "status": "Status",
+    "output": "Output",
+    "lastUpdated": "Last Updated",
+    "loading": "Loading...",
+    "error": "Error loading data"
+  }
+  
