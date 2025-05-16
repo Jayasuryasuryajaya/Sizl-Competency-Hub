@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import LanguageSelect from './components/LanguageSelector';
 import Filters from './components/Filters';
 import Chart from './components/Chart.jsx';
-import MachineTable from './components/MAchineTable';
+import MachineTable from './components/MachineTable';
 import { useProductionData } from '../hooks/useProductionData';
 
 // Animate container and children
